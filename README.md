@@ -71,3 +71,6 @@ LeetCode,剑指offer题目等 [LeetCode](https://github.com/Jack-Cherish/LeetCod
 结构化光扫描仪 [3DUNDERWORLD-Structured-Light-Scanner](https://github.com/theICTlab/3DUNDERWORLD-Structured-Light-Scanner)   
 3D视觉工坊 [3D视觉工坊](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision)   
 三维重建资料 [awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d)   
+
+## 人脸重建
+icp算法python实现。 [icp](https://github.com/ClayFlannigan/icp)   
