@@ -37,6 +37,7 @@ C++实现STL [MyTinySTL](https://github.com/Alinshans/MyTinySTL)
 ## 开源库
 OpenCv [opencv](https://github.com/opencv/opencv)   
 PCL [PCL](https://github.com/PointCloudLibrary/pcl)   
+Open3D [Open3D](https://github.com/intel-isl/Open3D)   
 pytorch [pytorch](https://github.com/pytorch/pytorch)   
 pytorch android demo [android-demo-app](https://github.com/pytorch/android-demo-app)
 几何深度学习Pytorch(图神经网络GNN) [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)   
