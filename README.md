@@ -44,6 +44,9 @@ pytorch android demo [android-demo-app](https://github.com/pytorch/android-demo-
 
 ## 开源项目
 中科视拓人脸项目 [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6)  对应教程 [SeetaFaceTutorial](https://github.com/seetafaceengine/SeetaFaceTutorial)   
+中科视拓人脸项目 [SeetaFace6Open](https://github.com/SeetaFace6Open/index)   对应的教程 [SeetaFace6 入门教程](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
+
+
 Zeusee 配合型人脸活体检测 [Zeusee-Face-Anti-spoofing](https://github.com/zeusees/Zeusee-Face-Anti-spoofing)   
 实现Everything [Fake-Everything](https://github.com/LeiHao0/Fake-Everything)   
 基于深度学习人脸静默活体 [HyperFAS](https://github.com/zeusees/HyperFAS)
