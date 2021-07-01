@@ -1,11 +1,18 @@
 # myStars
 Github上stars的项目，提供了根据TOPICS和语言等进行分类检索的功能，使用起来还是有很多不便。为了给更多的优秀项目点赞，同时不影响自己对一些项目跟进。记录一下对自己有帮助或者希望后期跟进的一些优秀组织和个人的项目。
 - - -
+## 英语
+[English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)   
+[everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)   
+
+## 资源整理
+[ShiYanLou](https://github.com/Ewenwan/ShiYanLou)   
+
 ## 算法
 常见算法实现:   
 [Algorithms-Python](https://github.com/TheAlgorithms/Python)   
-[Algorithms-CPP](https://github.com/TheAlgorithms/C-Plus-Plus)   
-TheAlgorithms中还包括其他语言如Java,Go,C等的实现   
+[Algorithms-CPP](https://github.com/TheAlgorithms/C-Plus-Plus)   TheAlgorithms中还包括其他语言如Java,Go,C等的实现   
+[scipy-cookbook](https://github.com/scipy/scipy-cookbook) 
 
 ## 信息
 开源项目推荐更新 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)   
@@ -18,22 +25,37 @@ TheAlgorithms中还包括其他语言如Java,Go,C等的实现
 目标检测 [mmdetection](https://github.com/open-mmlab/mmdetection)   
 视频技术介绍 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)  
 中文版 [digital_video_introduction-cn](https://github.com/leandromoreira/digital_video_introduction/blob/master/README-cn.md)   
-
+[SimpleCVReproduction](https://github.com/pprp/SimpleCVReproduction)   
+[learnopencv](https://github.com/spmallick/learnopencv)   
+[MVision](https://github.com/Ewenwan/MVision)   
 
 ## 工具
-v2ray [windows客户端v2rayN](https://github.com/2dust/v2rayN) [安卓客户端2rayNG](https://github.com/2dust/v2rayNG)   
-不同客户端资源 [链接](https://www.v2ray.com/awesome/tools.html)
+v2ray [windows客户端v2rayN](https://github.com/2dust/v2rayN)    
+[安卓客户端2rayNG](https://github.com/2dust/v2rayNG)   
+[v2ray](https://github.com/233boy/v2ray)   
+不同客户端资源 [链接](https://www.v2ray.com/awesome/tools.html)   
 Wordpress主题kratos [kratos](https://github.com/vtrois/kratos)   
+[soga](https://github.com/sprov065/soga)  soga项目   
 
 ## 书籍课程
 视觉SLAM十四讲：从理论到实践 第二版 [slambook2](https://github.com/gaoxiang12/slambook2)   
 黑马程序员C++课程笔记 [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)  [视频教程链接](https://www.bilibili.com/video/av41559729/)   
 
+《算法导论》第三版 [cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)   
+
+OpenCV 4快速入门 [learnOpenCV4](https://github.com/fengzhenHIT/learnOpenCV4)   
+
+OpenCV contrib扩展模块中文教程 [OpenCV-contrib-module-Chinese-Tutorials](https://github.com/fengzhenHIT/OpenCV-contrib-module-Chinese-Tutorials)   
+
+
 
 ## 编程语言学习
 python特性原理等 [wtfpython](https://github.com/satwikkansal/wtfpython) 中文版 [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)   
 C++实现STL [MyTinySTL](https://github.com/Alinshans/MyTinySTL)   
-
+cpp-learning [cpp-learning](https://github.com/fightingwangzq/cpp-learning) C++学习   
+C++ 资源大全中文版 [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)   
+[CPP-17-STL-cookbook](https://github.com/xiaoweiChen/CPP-17-STL-cookbook)    
+现代C++教程 [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)   
 ## 开源库
 OpenCv [opencv](https://github.com/opencv/opencv)   
 PCL [PCL](https://github.com/PointCloudLibrary/pcl)   
@@ -41,7 +63,8 @@ Open3D [Open3D](https://github.com/intel-isl/Open3D)
 pytorch [pytorch](https://github.com/pytorch/pytorch)   
 pytorch android demo [android-demo-app](https://github.com/pytorch/android-demo-app)
 几何深度学习Pytorch(图神经网络GNN) [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)   
-
+[NanoLog](https://github.com/Iyengar111/NanoLog) 基于C++11的低延迟日志库   
+[nanoflann](https://github.com/jlblancoc/nanoflann)  用于KD tree查找   
 ## 开源项目
 中科视拓人脸项目 [SeetaFace6](https://github.com/seetafaceengine/SeetaFace6)  对应教程 [SeetaFaceTutorial](https://github.com/seetafaceengine/SeetaFaceTutorial)   
 中科视拓人脸项目 [SeetaFace6Open](https://github.com/SeetaFace6Open/index)   对应的教程 [SeetaFace6 入门教程](http://leanote.com/blog/post/5e7d6cecab64412ae60016ef)
@@ -78,3 +101,10 @@ LeetCode,剑指offer题目等 [LeetCode](https://github.com/Jack-Cherish/LeetCod
 
 ## 人脸重建
 icp算法python实现。 [icp](https://github.com/ClayFlannigan/icp)   
+
+## 目标跟踪 
+[STAPLE](https://github.com/xuduo35/STAPLE)   
+[fDSST_cpp](https://github.com/laeklee/fDSST_cpp)   
+[KCF](https://github.com/foolwood/KCF)   
+[CSK](https://github.com/foolwood/CSK)   
+
