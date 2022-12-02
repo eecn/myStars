@@ -114,7 +114,8 @@ Hexo主题  [fluid](https://github.com/fluid-dev/hexo-theme-fluid)
 ## 计算机视觉
 视频技术介绍中文版 [digital_video_introduction-cn](https://github.com/leandromoreira/digital_video_introduction/blob/master/README-cn.md)
 [learnopencv](https://github.com/spmallick/learnopencv)   
-[MVision](https://github.com/Ewenwan/MVision) 
+[MVision](https://github.com/Ewenwan/MVision)   
+中文版版learnopencv [OpenCV-Practical-Exercise](https://github.com/luohenyueji/OpenCV-Practical-Exercise)   
 
 ### 目标检测 
 [mmdetection](https://github.com/open-mmlab/mmdetection)    
